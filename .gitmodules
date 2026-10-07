@@ -1,0 +1,4 @@
+[submodule "module5/lib/minmea"]
+	path = module5/lib/minmea
+	url = https://github.com/kosma/minmea
+	ignore = dirty
