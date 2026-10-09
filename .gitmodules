@@ -6,3 +6,7 @@
 	path = module6/lib/minmea
 	url = https://github.com/kosma/minmea
 	ignore = dirty
+[submodule "module6.5/lib/minmea"]
+	path = module6.5/lib/minmea
+	url = https://github.com/kosma/minmea
+	ignore = dirty
